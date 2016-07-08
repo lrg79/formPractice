@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $dbusername = "root";
-$dbpassword = "GenjiHanzo9199";
+$dbpassword = "***************************";
 $dbname = "forms1";
 
 $input1 = $_POST['inputTest'];
